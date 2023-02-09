@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Portfolio</title>
+    <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/</link>
+    <description>Recent content in Projects on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gamedle</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/2_gamedle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/2_gamedle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>League Discord Bot</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/4_leaguebot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/4_leaguebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slice of Life</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/1_socialmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/1_socialmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMI - Discord College Community Hotline</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/3_helpline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/3_helpline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

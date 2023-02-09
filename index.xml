@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/</link>
+    <description>Recent content on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://keltonlindsey.github.io/KeltonLindsey_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/about/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/about/article/</guid>
+      <description>View Resume
+Education and Background I grew up in Fresno California after my father and mother relocated from there 6 figure jobs in San Fransisco. Now my dad was a teacher and my mom stayed at home, so although we had a reserve of funds, we attempted to live more paycheck to paycheck in order to save that money for education. I was raised on strong morales to be a leader and let my voice be heard, with my parents pressuring me (although now I thank them for it) into playing usually 4-5 sports in one year.</description>
+    </item>
+    
+    <item>
+      <title>Gamedle</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/2_gamedle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/2_gamedle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>League Discord Bot</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/4_leaguebot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/4_leaguebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slice of Life</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/1_socialmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/1_socialmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMI - Discord College Community Hotline</title>
+      <link>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/3_helpline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keltonlindsey.github.io/KeltonLindsey_Portfolio/projects/3_helpline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
